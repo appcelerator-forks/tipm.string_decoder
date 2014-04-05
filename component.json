@@ -1,0 +1,16 @@
+{
+  "name": "string_decoder",
+  "repo": "tipm/string_decoder",
+  "description": "Node.js string_decoder.js lib",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "tipm/buffer": "~0.1.0"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
